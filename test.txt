@@ -1,1 +1,1 @@
-Get-NetIPAddress
+Get-Date
