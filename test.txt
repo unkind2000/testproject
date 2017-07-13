@@ -1,2 +1,0 @@
-cmd.exe /c ver
-cmd.exe /c ipconfig
